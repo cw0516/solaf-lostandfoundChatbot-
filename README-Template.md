@@ -90,5 +90,3 @@
 
 ---
 
-위 템플렛의 영문 원본은 [여기](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)에서 확인하실 수 있습니다.
-오타는 Comment (댓글) 로 남겨주시면 수정해드리겠습니다.
