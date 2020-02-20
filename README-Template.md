@@ -42,8 +42,11 @@ __2. 분실물을 검색할때 사용자 UI/UX 가 불편하다.__
 
 > 사용자가 접속하면 간단한 챗봇 소개를 하고 물건을 잃어버린 날짜부터 물어본다.
 <img width="543" alt="1" src="https://user-images.githubusercontent.com/48001039/74929544-13bb9000-541f-11ea-8ca4-79851eef994a.PNG">
+<br><br>
 
-
+> 사용자가 입력한 날짜로부터 오늘까지 잃어버린 분실물의 개수를 알려준다 없다면 대화를 마무리 해야한다
+> 분실물들이 존재 한다면 사용자가 입력한 날짜는 잠시 저장하고 있고 분실물에 대한 설명을 사용자로부터 입력받아서 날짜와 설명을 토대로 DB 검색을한다
+<img width="551" alt="2" src="https://user-images.githubusercontent.com/48001039/74930027-1965a580-5420-11ea-96ec-933e1f5925b4.PNG">
 ## 사용된 것들
 
 * python _Flask_ for server
