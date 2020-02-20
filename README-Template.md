@@ -50,9 +50,10 @@ __2. 분실물을 검색할때 사용자 UI/UX 가 불편하다.__
 <img width="551" alt="2" src="https://user-images.githubusercontent.com/48001039/74930027-1965a580-5420-11ea-96ec-933e1f5925b4.PNG">
 
 > DB 검색 결과를 버튼 형식으로 제공해서 사용자가 버튼을 눌러서 분실물의 상세정보를 확인할 수 있도록 한다.
+<img width="529" alt="3" src="https://user-images.githubusercontent.com/48001039/74930581-541c0d80-5421-11ea-9aa0-c233b09a13f6.PNG">
 
 > 분실물이 맞다면 분실물을 보관하고 있는 보관소의 전화번호 위치 정보까지 제공해준다.
-
+<img width="518" alt="4" src="https://user-images.githubusercontent.com/48001039/74930600-5b431b80-5421-11ea-8bb4-e83e2b01b75b.PNG">
 
 
 
