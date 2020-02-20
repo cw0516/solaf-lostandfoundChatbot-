@@ -40,6 +40,10 @@ __2. 분실물을 검색할때 사용자 UI/UX 가 불편하다.__
 
 ## 구현 
 
+> 사용자가 접속하면 간단한 챗봇 소개를 하고 물건을 잃어버린 날짜부터 물어본다.
+<img width="543" alt="1" src="https://user-images.githubusercontent.com/48001039/74929544-13bb9000-541f-11ea-8ca4-79851eef994a.PNG">
+
+
 ## 사용된 것들
 
 * python _Flask_ for server
