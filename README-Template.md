@@ -36,9 +36,9 @@ __2. 분실물을 검색할때 사용자 UI/UX 가 불편하다.__
 
 ## 사용된 것들
 
-* python Flask for server
-* konlpy for natural language processing
-* telegram API for client
-* mysql for DB  
+* python _Flask_ for server
+* _konlpy_ for natural language processing
+* _telegram API_ for client
+* _mysql_ for DB  
 
 
