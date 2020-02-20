@@ -33,21 +33,12 @@ __2. 분실물을 검색할때 사용자 UI/UX 가 불편하다.__
 
 <br><br>
 
-### 설치하기
-
-
 
 ## 사용된 것들
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - 웹 프레임워크
-* [Maven](https://maven.apache.org/) - 의존성 관리 프로그램
-* [ROME](https://rometools.github.io/rome/) - RSS 피드 생성기
-
-
-[기여자 목록](https://github.com/your/project/contributors)을 확인하여 이 프로젝트에 참가하신 분들을 보실 수 있습니다.
-
-## 라이센스
-
-이 프로젝트는 MIT 허가서를 사용합니다 - [LICENSE.md](LICENSE.md) 파일에서 자세히 알아보세요.
+* python Flask for server
+* konlpy for natural language processing
+* telegram API for client
+* mysql for DB  
 
 
